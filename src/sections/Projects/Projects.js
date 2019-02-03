@@ -42,7 +42,7 @@ const Projects = () => {
               inverted
               style={{ margin: "3em 0em", textTransform: "uppercase" }}
             >
-              Front End Projects
+              Full Stack Development Projects
             </Divider>
 
             <Segment inverted style={{ padding: "0em" }} vertical>
