@@ -14,7 +14,7 @@ import {
 } from "semantic-ui-react";
 import "./Projects.css";
 import PHS from "../../static/img/phs.png";
-import TBA from "../../static/img/tba.png";
+import TBA from "../../static/img/revents.JPG";
 import PWS from "../../static/img/pws.png";
 import TSA from "../../static/img/tsa.png";
 import NASA from "../../static/img/projects/nasa_hp.png";
