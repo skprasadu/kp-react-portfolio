@@ -1,7 +1,7 @@
 {
-  "main.css": "/kp-react-portfolio/static/css/main.b45c3446.chunk.css",
-  "main.js": "/kp-react-portfolio/static/js/main.817aab9a.chunk.js",
-  "main.js.map": "/kp-react-portfolio/static/js/main.817aab9a.chunk.js.map",
+  "main.css": "/kp-react-portfolio/static/css/main.850cadd3.chunk.css",
+  "main.js": "/kp-react-portfolio/static/js/main.a7f432f8.chunk.js",
+  "main.js.map": "/kp-react-portfolio/static/js/main.a7f432f8.chunk.js.map",
   "static/css/1.4b6cd11b.chunk.css": "/kp-react-portfolio/static/css/1.4b6cd11b.chunk.css",
   "static/js/1.ec0c1109.chunk.js": "/kp-react-portfolio/static/js/1.ec0c1109.chunk.js",
   "static/js/1.ec0c1109.chunk.js.map": "/kp-react-portfolio/static/js/1.ec0c1109.chunk.js.map",
@@ -28,9 +28,9 @@
   "static/media/Home.css": "/kp-react-portfolio/static/media/pacmanbgburned.8cb7820b.png",
   "static/media/materialize.png": "/kp-react-portfolio/static/media/materialize.227391f9.png",
   "static/media/xtocat.png": "/kp-react-portfolio/static/media/xtocat.fec38aff.png",
+  "static/css/main.850cadd3.chunk.css.map": "/kp-react-portfolio/static/css/main.850cadd3.chunk.css.map",
   "static/css/1.4b6cd11b.chunk.css.map": "/kp-react-portfolio/static/css/1.4b6cd11b.chunk.css.map",
-  "static/css/main.b45c3446.chunk.css.map": "/kp-react-portfolio/static/css/main.b45c3446.chunk.css.map",
   "index.html": "/kp-react-portfolio/index.html",
-  "precache-manifest.3778289e8339da38f116beea09b1d032.js": "/kp-react-portfolio/precache-manifest.3778289e8339da38f116beea09b1d032.js",
+  "precache-manifest.fb1905839abd44800f303705a9e1aef9.js": "/kp-react-portfolio/precache-manifest.fb1905839abd44800f303705a9e1aef9.js",
   "service-worker.js": "/kp-react-portfolio/service-worker.js"
 }
