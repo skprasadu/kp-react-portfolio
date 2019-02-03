@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/media/nasa_hp.e9c4771e.png"
   },
   {
-    "revision": "18541b0b3eef24ea4c2d",
+    "revision": "869b858579666f6a2eed",
     "url": "/kp-react-portfolio/static/css/main.b45c3446.chunk.css"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/media/tsa.118aa0e8.png"
   },
   {
-    "revision": "18541b0b3eef24ea4c2d",
-    "url": "/kp-react-portfolio/static/js/main.18541b0b.chunk.js"
+    "revision": "869b858579666f6a2eed",
+    "url": "/kp-react-portfolio/static/js/main.869b8585.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -96,16 +96,8 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/kp-react-portfolio/static/media/outline-icons.701ae6ab.eot"
-  },
-  {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/kp-react-portfolio/static/media/icons.faff9214.woff"
-  },
-  {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/kp-react-portfolio/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
@@ -116,12 +108,20 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/kp-react-portfolio/static/media/outline-icons.ad97afd3.ttf"
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/kp-react-portfolio/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/kp-react-portfolio/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/kp-react-portfolio/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/kp-react-portfolio/static/media/outline-icons.701ae6ab.eot"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/media/brand-icons.e8c322de.woff2"
   },
   {
-    "revision": "a046592bac8f2fd96e994733faf3858c",
-    "url": "/kp-react-portfolio/static/media/brand-icons.a046592b.woff"
-  },
-  {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/kp-react-portfolio/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "a046592bac8f2fd96e994733faf3858c",
+    "url": "/kp-react-portfolio/static/media/brand-icons.a046592b.woff"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/kp-react-portfolio/static/css/1.4b6cd11b.chunk.css"
   },
   {
-    "revision": "024ed3c2ad8a723a5b3b6b1ae38baf32",
+    "revision": "0413b9d3f24104980e447055ef8235ec",
     "url": "/kp-react-portfolio/index.html"
   }
 ];
