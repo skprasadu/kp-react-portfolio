@@ -1,0 +1,24 @@
+.ui.menu {
+    margin: 0;
+}
+
+.ui a {
+    color: #fff;
+}
+
+.ui.secondary.menu {
+    background: black;
+}
+
+
+/* onhover slightly change the color */
+
+.ui a:hover {
+    color: #b3b3b3;
+}
+
+.nav {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}

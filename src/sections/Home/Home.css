@@ -1,0 +1,58 @@
+.ui.text.container {
+    max-width: 1200px;
+}
+
+.ui.secondary.inverted.menu {
+    background-color: black;
+    /* opacity: .7; */
+}
+
+.ui.secondary.inverted.menu a.item {
+    color: white !important;
+}
+
+.ui.secondary.inverted.menu a.item:hover {
+    color: #b8b8b8 !important;
+}
+
+.bgpm {
+    /* background-size: cover; */
+    color: rgba(255, 255, 255, .9);
+    max-width: 100%;
+    background: url("../../static/img/pacmanbgburned.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+/* Image border */
+
+.imageStyling {
+    border: 5px solid #dddbd9;
+    margin-bottom: .5em;
+}
+
+
+/* Minimum height of image */
+
+.ui.image img,
+.ui.image svg {
+    min-height: 300px;
+}
+
+
+/* min-height needs to be changed back to auto on smaller screens */
+
+.height {
+    min-height: 15em;
+}
+
+.Typist {
+    font-size: 2em;
+}
+
+.sourcecodeBtn {
+    padding: 1em;
+}
