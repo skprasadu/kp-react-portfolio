@@ -45,7 +45,7 @@ const Contact = () => {
             <ul className="social-icons">
               <li>
                 <a
-                  href="https://www.fb.me/justin.leggett.12"
+                  href="https://www.facebook.com/krishna.prasad.in"
                   className="social-icon"
                 >
                   {" "}<i className="fa fa-facebook fa-5x" />
@@ -53,14 +53,22 @@ const Contact = () => {
               </li>
               <li>
                 <a
-                  href="https://www.linkedin.com/in/justinleggett/"
+                  href="https://www.linkedin.com/in/krishnaprasad1/"
                   className="social-icon"
                 >
                   {" "}<i className="fa fa-linkedin fa-5x" />
                 </a>
               </li>
               <li>
-                <a href="mailto:justinal8183@gmail.com" className="social-icon">
+                <a
+                  href="https://www.github.com/skprasadu/"
+                  className="social-icon"
+                >
+                  {" "}<i className="fa fa-github fa-5x" />
+                </a>
+              </li>
+              <li>
+                <a href="mailto:praskrishna@gmail.com" className="social-icon">
                   {" "}<i className="fa fa-envelope fa-5x" />
                 </a>
               </li>

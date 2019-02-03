@@ -28,17 +28,13 @@ const Intro = () => {
               Why Software Development?
             </Header>
             <p style={{ fontSize: "1.33em" }}>
-              In 2012 I was working for a healthcare company as a tech support
-              specialist. I was in a room with developers, and day after day I
-              watched these developers creating something out of nothing, so I
-              started researching software development and started creating
-              "Hello World" apps. After 6 months of tinkering my boss gave me a
-              very ambicious project "Can you create a dashboard that we will
-              display incoming data?" Over the next 6 months I dove deeper into
-              C#, asp.net, and javascript to create a dashboard application that
-              would display data in realtime. We purchased a TV and every
-              morning when I walked in the office I was proud to see what I
-              created hanging on the wall for everyone to see!
+              I am a Software Developer from over 27yrs. I have worked starting from C++ days and from past 
+              15 yrs I have worked in Java. Of late I have stated working in Spring Boot, JavaScript 
+              frameworks like ReactJS, Angular, Firebase, I have also started working on React Native 
+              and other mobile development platform. 
+            </p>
+            <p style={{ fontSize: "1.33em" }}>
+              I am consulting for large companies like Boeing, T Mobile, BNSF Railway Company and others.
             </p>
           </Grid.Column>
           <Grid.Column floated="right" width={6}>

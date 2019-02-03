@@ -89,7 +89,7 @@ export default class HomepageLayout extends Component {
             <Container text>
               <Header
                 as="h1"
-                content="JL Designs"
+                content="Krishna Prasad"
                 inverted
                 style={{
                   fontSize: "4em",
