@@ -43,12 +43,12 @@ const Contact = () => {
           <div className="footer-social-icons">
             <h4 className="_14" />
             <ul className="social-icons">
-              <li>
+            <li>
                 <a
-                  href="https://www.facebook.com/krishna.prasad.in"
+                  href="https://www.github.com/skprasadu/"
                   className="social-icon"
                 >
-                  {" "}<i className="fa fa-facebook fa-5x" />
+                  {" "}<i className="fa fa-github fa-5x" />
                 </a>
               </li>
               <li>
@@ -57,14 +57,6 @@ const Contact = () => {
                   className="social-icon"
                 >
                   {" "}<i className="fa fa-linkedin fa-5x" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.github.com/skprasadu/"
-                  className="social-icon"
-                >
-                  {" "}<i className="fa fa-github fa-5x" />
                 </a>
               </li>
               <li>
